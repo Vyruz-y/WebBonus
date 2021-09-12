@@ -64,8 +64,11 @@ h1{
 .form-container{
     width: 55%;
     padding: 50px;
-    border: 1px solid black;
+    border: 1px solid grey;
     border-radius: 10px;
+    box-shadow: 10px 10px 0px -4px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 10px 10px 0px -4px rgba(0,0,0,0.3);
+    -moz-box-shadow: 10px 10px 0px -4px rgba(0,0,0,0.3);
 }
 h2{
     margin-bottom: 40px;
